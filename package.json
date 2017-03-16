@@ -1,0 +1,17 @@
+{
+  "name": "keywords-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nlcst-to-string": "^2.0.0",
+    "retext": "^5.0.0",
+    "retext-keywords": "^3.1.0"
+  }
+}
